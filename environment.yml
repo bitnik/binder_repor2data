@@ -1,0 +1,7 @@
+name: repo2data-env
+channels:
+  - conda-forge
+dependencies:
+  - git-annex
+  - pip:
+    - datalad
