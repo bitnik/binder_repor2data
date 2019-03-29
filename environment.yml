@@ -4,4 +4,5 @@ channels:
 dependencies:
   - git-annex
   - pip:
+    - repo2data
     - datalad
